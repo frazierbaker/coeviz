@@ -1,0 +1,40 @@
+{
+  "name": "coeviz",
+  "version": "2.0.0",
+  "description": "A dynamic, interactive visualization of protein coevolution data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frazierbaker/coeviz.git"
+  },
+  "keywords": [
+    "coeviz",
+    "coevolution",
+    "protein",
+    "proteomics",
+    "bioinformatics",
+    "d3ndro",
+    "d3",
+    "canvas",
+    "mds",
+    "data",
+    "covariance",
+    "distance",
+    "clustering",
+    "biology"
+  ],
+  "author": "Frazier Baker",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/frazierbaker/coeviz/issues"
+  },
+  "homepage": "https://github.com/frazierbaker/coeviz#readme",
+  "dependencies": {
+    "golden-layout": "^1.5.9",
+    "jsx": "^0.9.89",
+    "react": "^16.1.1"
+  }
+}
